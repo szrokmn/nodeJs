@@ -23,6 +23,6 @@ app.listen(3000, function() {
 
 
 
-
+// app.use() bir middleware dir
 // Ara yazilimdir ve 3 parametre alir
 // her seferinde devam ettirilmelidir next() ile
