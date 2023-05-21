@@ -12,6 +12,8 @@ app.listen(3000, function() {
 
 
 
+// express.js bir frameworktur
+// npm --version
 // npm i express@4.18.1
 // npm i express    (son version)
 // npm init --yes   (bilgileri tek tek sormasin diye)
