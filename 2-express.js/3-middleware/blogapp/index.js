@@ -20,3 +20,9 @@ app.use(function(req, res) {
 app.listen(3000, function() {
     console.log("listening on port 3000");
 });
+
+
+
+
+// Ara yazilimdir ve 3 parametre alir
+// her seferinde devam ettirilmelidir next() ile
