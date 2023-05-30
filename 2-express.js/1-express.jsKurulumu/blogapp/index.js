@@ -18,3 +18,4 @@ app.listen(3000, function() {
 // npm i express    (son version)
 // npm init --yes   (bilgileri tek tek sormasin diye)
 // use() methodu ile gelen request ve response`lari ele alabiliyoruz
+// http://127.0.0.1:3000/
