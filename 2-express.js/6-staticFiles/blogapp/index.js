@@ -38,4 +38,4 @@ app.listen(3000, function() {
 // static dosyalarla nasil calisiyoruz(css-js-resim dosyasi)
 // npm i bootstrap@5.2.0
 // npm start ile calistiriyoruz
-// 
+
